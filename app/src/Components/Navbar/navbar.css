@@ -1,0 +1,19 @@
+.Navbar {
+    width: 100%;
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #102626;
+    position: fixed;
+}
+.menu {
+    width: 300px;
+}
+
+a {
+    text-decoration: none;
+    color: aliceblue;
+    font-size: 22px;
+    margin: 0 20px;
+}
